@@ -2,7 +2,7 @@
 
 ## Notatki:
 ### 17.10.2026 Macierze wykład
-Prezentacja, zdjęcia pobierz tu [📥 Pobierz prezentację i zdjęcia] (https://github.com/LOGIN/REPO/raw/refs/heads/main/wykład%20macierze.rar)
+[Prezentacja, zdjęcia — pobierz tutaj](https://github.com/Wojewoda-007/Podstawy-Metod-Ilosciowych/raw/refs/heads/main/wyk%C5%82ad%20macierze.rar)
 
 
 ### Dodatkowe:
