@@ -1,6 +1,9 @@
 # Podstawy-Metod-Ilosciowych
 
 ## Notatki:
+### 17.10.2026 Macierze wykład
+Prezentacja, zdjęcia [click here](wykład macierze.rar)
+
 
 ### Dodatkowe:
 - Macierz odwrotna [click here](https://www.youtube.com/watch?v=Uux_mZu4Yew)
