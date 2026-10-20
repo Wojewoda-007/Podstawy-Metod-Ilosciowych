@@ -2,7 +2,7 @@
 
 ## Notatki:
 ### 17.10.2026 Macierze wykład
-Prezentacja, zdjęcia [click here](./wykład%20macierze.rar)
+Prezentacja, zdjęcia pobierz tu [📥 Pobierz prezentację i zdjęcia] (https://github.com/LOGIN/REPO/raw/refs/heads/main/wykład%20macierze.rar)
 
 
 ### Dodatkowe:
