@@ -6,7 +6,7 @@
 
 ### 24.10.2026 macierze 2
 - Karta pracy [click here](https://github.com/Wojewoda-007/Podstawy-Metod-Ilosciowych/blob/main/Karta_pracy_FRLN1.pdf)
-- Prezentacja macierze do pobrania [Pobierz Prezentacje – macierze](https://github.com/Wojewoda-007/Podstawy-Metod-Ilosciowych/raw/refs/heads/main/Wyklad-2-macierze.pptx)
+- Prezentacja macierze do pobrania [Pobierz Prezentacje - macierze](https://github.com/Wojewoda-007/Podstawy-Metod-Ilosciowych/raw/refs/heads/main/Wyklad-2-macierze.pptx)
 
 
 ### Dodatkowe:
